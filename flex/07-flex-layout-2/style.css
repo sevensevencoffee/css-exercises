@@ -8,6 +8,10 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  display: flex;
+  font-size: 32px;
+  align-items: center;
+  font-weight: 800;
 }
 
 .footer {
